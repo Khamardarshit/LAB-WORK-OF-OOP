@@ -76,7 +76,7 @@ public:
         cout << "\nCity: " << getCity();
         cout << "\nEmail: " << getEmail();
         cout << "\nCollege: " << getCollege();
-        cout << "\n-----------------------------\n";
+        cout << "\n----------------------------\n";
     }
 };
 
